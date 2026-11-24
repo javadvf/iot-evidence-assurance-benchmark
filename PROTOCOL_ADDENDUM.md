@@ -125,3 +125,14 @@ Methodology: Conditional GO pending approval and tests.
 Scientific contribution: GO for chapter development.
 
 Implementation requires explicit protocol approval.
+
+## 9. Approval Record
+
+Date: 2026-11-24
+Status: Approved for implementation
+
+The researcher approved the proposed protocol
+subject to its documented limitations.
+
+Subsequent methodological changes require
+justification, documentation and approval.
