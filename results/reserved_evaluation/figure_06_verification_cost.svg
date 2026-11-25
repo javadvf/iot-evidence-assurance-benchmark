@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
+<rect x="0" y="0" width="1000" height="330" fill="#FFFFFF" stroke="none" rx="3"/>
+<text x="25" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#263238" text-anchor="start">Verification cost and supporting evidence</text>
+<text x="25" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Local verification latency and deterministic supporting-material representation</text>
+<text x="25" y="95" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Verification latency (ms)</text>
+<text x="25" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
+<rect x="65" y="115" width="14.11176647114991" height="18" fill="#77858B" stroke="none" rx="3"/>
+<line x1="78.9317091801937" y1="124" x2="79.84018005729095" y2="124" stroke="#263238" stroke-width="1.5"/>
+<line x1="78.9317091801937" y1="119" x2="78.9317091801937" y2="129" stroke="#263238" stroke-width="1"/>
+<line x1="79.84018005729095" y1="119" x2="79.84018005729095" y2="129" stroke="#263238" stroke-width="1"/>
+<text x="365" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1.293</text>
+<text x="25" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
+<rect x="65" y="143" width="27.738829627608784" height="18" fill="#455A64" stroke="none" rx="3"/>
+<line x1="92.33414813804393" y1="152" x2="94.00650934388214" y2="152" stroke="#263238" stroke-width="1.5"/>
+<line x1="92.33414813804393" y1="147" x2="92.33414813804393" y2="157" stroke="#263238" stroke-width="1"/>
+<line x1="94.00650934388214" y1="147" x2="94.00650934388214" y2="157" stroke="#263238" stroke-width="1"/>
+<text x="365" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">2.542</text>
+<text x="25" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
+<rect x="65" y="171" width="72.2866402946392" height="18" fill="#80B0AC" stroke="none" rx="3"/>
+<line x1="136.6714445505388" y1="180" x2="138.2483099167917" y2="180" stroke="#263238" stroke-width="1.5"/>
+<line x1="136.6714445505388" y1="175" x2="136.6714445505388" y2="185" stroke="#263238" stroke-width="1"/>
+<line x1="138.2483099167917" y1="175" x2="138.2483099167917" y2="185" stroke="#263238" stroke-width="1"/>
+<text x="365" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">6.624</text>
+<text x="25" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
+<rect x="65" y="199" width="86.03101350429681" height="18" fill="#367D78" stroke="none" rx="3"/>
+<line x1="150.19529668530896" y1="208" x2="152.2991406356568" y2="208" stroke="#263238" stroke-width="1.5"/>
+<line x1="150.19529668530896" y1="203" x2="150.19529668530896" y2="213" stroke="#263238" stroke-width="1"/>
+<line x1="152.2991406356568" y1="203" x2="152.2991406356568" y2="213" stroke="#263238" stroke-width="1"/>
+<text x="365" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">7.884</text>
+<text x="25" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
+<rect x="65" y="227" width="236.31655163006408" height="18" fill="#90A9C5" stroke="none" rx="3"/>
+<line x1="112.46828536352476" y1="236" x2="326.63096985404445" y2="236" stroke="#263238" stroke-width="1.5"/>
+<line x1="112.46828536352476" y1="231" x2="112.46828536352476" y2="241" stroke="#263238" stroke-width="1"/>
+<line x1="326.63096985404445" y1="231" x2="326.63096985404445" y2="241" stroke="#263238" stroke-width="1"/>
+<text x="365" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">21.655</text>
+<text x="25" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
+<rect x="65" y="255" width="251.26949120174604" height="18" fill="#547DAF" stroke="none" rx="3"/>
+<line x1="126.53730732505797" y1="264" x2="345.0" y2="264" stroke="#263238" stroke-width="1.5"/>
+<line x1="126.53730732505797" y1="259" x2="126.53730732505797" y2="269" stroke="#263238" stroke-width="1"/>
+<line x1="345.0" y1="259" x2="345.0" y2="269" stroke="#263238" stroke-width="1"/>
+<text x="365" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">23.026</text>
+<text x="520" y="95" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Supporting material (bytes)</text>
+<text x="520" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
+<rect x="560" y="115" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="115" width="0.0" height="18" fill="#77858B" stroke="none" rx="3"/>
+<text x="849" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0</text>
+<text x="520" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
+<rect x="560" y="143" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="143" width="103.779399837794" height="18" fill="#455A64" stroke="none" rx="3"/>
+<text x="849" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">914.0</text>
+<text x="520" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
+<rect x="560" y="171" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="171" width="176.4476885644769" height="18" fill="#80B0AC" stroke="none" rx="3"/>
+<text x="849" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1554.0</text>
+<text x="520" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
+<rect x="560" y="199" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="199" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="849" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">2466.0</text>
+<text x="520" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
+<rect x="560" y="227" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="227" width="12.489862124898622" height="18" fill="#90A9C5" stroke="none" rx="3"/>
+<text x="849" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">110.0</text>
+<text x="520" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
+<rect x="560" y="255" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="255" width="116.15571776155718" height="18" fill="#547DAF" stroke="none" rx="3"/>
+<text x="849" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1023.0</text>
+<text x="25" y="305" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Latency: median and interquartile range.</text>
+<text x="520" y="305" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Support size excludes common signed evidence.</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310">
+<rect x="0" y="0" width="1000" height="310" fill="#FFFFFF" stroke="none" rx="3"/>
+<text x="25" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#263238" text-anchor="start">Witness availability and compromise</text>
+<text x="25" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">3-of-4 quorum | exhaustive witness identity configurations</text>
+<text x="25" y="95" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Checkpoint acceptance (%)</text>
+<text x="25" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0</text>
+<rect x="65" y="115" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="115" width="0.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="25" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1</text>
+<rect x="65" y="143" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="143" width="0.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="25" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">2</text>
+<rect x="65" y="171" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="171" width="0.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="25" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">3</text>
+<rect x="65" y="199" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="199" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="25" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">4</text>
+<rect x="65" y="227" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="227" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="520" y="95" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Conflicting checkpoint acceptance (%)</text>
+<text x="520" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0</text>
+<rect x="560" y="115" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="115" width="0.0" height="18" fill="#B66A57" stroke="none" rx="3"/>
+<text x="849" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="520" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1</text>
+<rect x="560" y="143" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="143" width="0.0" height="18" fill="#B66A57" stroke="none" rx="3"/>
+<text x="849" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="520" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">2</text>
+<rect x="560" y="171" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="171" width="140.0" height="18" fill="#B66A57" stroke="none" rx="3"/>
+<text x="849" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">50.0%</text>
+<text x="520" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">3</text>
+<rect x="560" y="199" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="199" width="280.0" height="18" fill="#B66A57" stroke="none" rx="3"/>
+<text x="849" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="520" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">4</text>
+<rect x="560" y="227" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="227" width="280.0" height="18" fill="#B66A57" stroke="none" rx="3"/>
+<text x="849" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="25" y="270" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Number of available witnesses</text>
+<text x="520" y="270" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Number of compromised witnesses</text>
+<text x="25" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Configuration frequencies, not real-world attack probabilities.</text>
+</svg>

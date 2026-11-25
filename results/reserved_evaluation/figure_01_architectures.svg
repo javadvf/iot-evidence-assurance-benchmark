@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410">
+<rect x="0" y="0" width="1000" height="410" fill="#FFFFFF" stroke="none" rx="3"/>
+<text x="25" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#263238" text-anchor="start">Comparative evidence assurance framework</text>
+<text x="25" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Common signed evidence; different commitment infrastructure and decision rules</text>
+<rect x="250" y="75" width="500" height="42" fill="#F1F4F5" stroke="none" rx="3"/>
+<text x="500" y="101" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#263238" text-anchor="middle">Canonical evidence + source authentication + retained history</text>
+<line x1="500" y1="117" x2="500" y2="135" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="135" x2="175" y2="135" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="175" y1="135" x2="175" y2="150" stroke="#D8DFE2" stroke-width="1"/>
+<rect x="25" y="150" width="300" height="50" fill="#FFFFFF" stroke="#455A64" rx="3"/>
+<text x="175" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="middle">Digital signatures</text>
+<rect x="25" y="225" width="145" height="62" fill="#77858B" stroke="none" rx="3"/>
+<text x="97.5" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">A1</text>
+<text x="97.5" y="269" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#FFFFFF" text-anchor="middle">Cryptographic checks</text>
+<rect x="180" y="225" width="145" height="62" fill="#455A64" stroke="none" rx="3"/>
+<text x="252.5" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">A2</text>
+<text x="252.5" y="269" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#FFFFFF" text-anchor="middle">Checks + evidence rules</text>
+<line x1="175" y1="200" x2="175" y2="212" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="97.5" y1="212" x2="252.5" y2="212" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="97.5" y1="212" x2="97.5" y2="225" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="252.5" y1="212" x2="252.5" y2="225" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="97.5" y1="287" x2="97.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="252.5" y1="287" x2="252.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="97.5" y1="320" x2="252.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="175" y1="320" x2="175" y2="335" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="117" x2="500" y2="135" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="135" x2="500" y2="135" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="135" x2="500" y2="150" stroke="#D8DFE2" stroke-width="1"/>
+<rect x="350" y="150" width="300" height="50" fill="#FFFFFF" stroke="#367D78" rx="3"/>
+<text x="500" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="middle">Witnessed transparency log</text>
+<rect x="350" y="225" width="145" height="62" fill="#80B0AC" stroke="none" rx="3"/>
+<text x="422.5" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">B1</text>
+<text x="422.5" y="269" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#FFFFFF" text-anchor="middle">Cryptographic checks</text>
+<rect x="505" y="225" width="145" height="62" fill="#367D78" stroke="none" rx="3"/>
+<text x="577.5" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">B2</text>
+<text x="577.5" y="269" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#FFFFFF" text-anchor="middle">Checks + evidence rules</text>
+<line x1="500" y1="200" x2="500" y2="212" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="422.5" y1="212" x2="577.5" y2="212" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="422.5" y1="212" x2="422.5" y2="225" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="577.5" y1="212" x2="577.5" y2="225" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="422.5" y1="287" x2="422.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="577.5" y1="287" x2="577.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="422.5" y1="320" x2="577.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="320" x2="500" y2="335" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="117" x2="500" y2="135" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="500" y1="135" x2="825" y2="135" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="825" y1="135" x2="825" y2="150" stroke="#D8DFE2" stroke-width="1"/>
+<rect x="675" y="150" width="300" height="50" fill="#FFFFFF" stroke="#547DAF" rx="3"/>
+<text x="825" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="middle">Ethereum anchoring</text>
+<rect x="675" y="225" width="145" height="62" fill="#90A9C5" stroke="none" rx="3"/>
+<text x="747.5" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">C1</text>
+<text x="747.5" y="269" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#FFFFFF" text-anchor="middle">Cryptographic checks</text>
+<rect x="830" y="225" width="145" height="62" fill="#547DAF" stroke="none" rx="3"/>
+<text x="902.5" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">C2</text>
+<text x="902.5" y="269" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#FFFFFF" text-anchor="middle">Checks + evidence rules</text>
+<line x1="825" y1="200" x2="825" y2="212" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="747.5" y1="212" x2="902.5" y2="212" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="747.5" y1="212" x2="747.5" y2="225" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="902.5" y1="212" x2="902.5" y2="225" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="747.5" y1="287" x2="747.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="902.5" y1="287" x2="902.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="747.5" y1="320" x2="902.5" y2="320" stroke="#D8DFE2" stroke-width="1"/>
+<line x1="825" y1="320" x2="825" y2="335" stroke="#D8DFE2" stroke-width="1"/>
+<rect x="175" y="335" width="650" height="42" fill="#F1F4F5" stroke="none" rx="3"/>
+<text x="500" y="361" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="middle">Decision: ACCEPT / REJECT / INDETERMINATE</text>
+</svg>

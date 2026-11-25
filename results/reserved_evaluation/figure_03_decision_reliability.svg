@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="545" viewBox="0 0 1000 545">
+<rect x="0" y="0" width="1000" height="545" fill="#FFFFFF" stroke="none" rx="3"/>
+<text x="25" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#263238" text-anchor="start">Comparative decision reliability</text>
+<text x="25" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Reserved evaluation | architecture-level rates with predefined denominators</text>
+<text x="25" y="90" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Decision agreement</text>
+<text x="25" y="124" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
+<rect x="65" y="110" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="110" width="147.36842105263156" height="18" fill="#77858B" stroke="none" rx="3"/>
+<text x="354" y="124" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">52.6%</text>
+<text x="25" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
+<rect x="65" y="138" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="138" width="280.0" height="18" fill="#455A64" stroke="none" rx="3"/>
+<text x="354" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="25" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
+<rect x="65" y="166" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="166" width="147.36842105263156" height="18" fill="#80B0AC" stroke="none" rx="3"/>
+<text x="354" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">52.6%</text>
+<text x="25" y="208" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
+<rect x="65" y="194" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="194" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="208" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="25" y="236" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
+<rect x="65" y="222" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="222" width="147.36842105263156" height="18" fill="#90A9C5" stroke="none" rx="3"/>
+<text x="354" y="236" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">52.6%</text>
+<text x="25" y="264" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
+<rect x="65" y="250" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="250" width="280.0" height="18" fill="#547DAF" stroke="none" rx="3"/>
+<text x="354" y="264" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="520" y="90" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">False acceptance</text>
+<text x="520" y="124" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
+<rect x="560" y="110" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="110" width="186.66666666666669" height="18" fill="#77858B" stroke="none" rx="3"/>
+<text x="849" y="124" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">66.7%</text>
+<text x="520" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
+<rect x="560" y="138" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="138" width="0.0" height="18" fill="#455A64" stroke="none" rx="3"/>
+<text x="849" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="520" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
+<rect x="560" y="166" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="166" width="186.66666666666669" height="18" fill="#80B0AC" stroke="none" rx="3"/>
+<text x="849" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">66.7%</text>
+<text x="520" y="208" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
+<rect x="560" y="194" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="194" width="0.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="849" y="208" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="520" y="236" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
+<rect x="560" y="222" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="222" width="186.66666666666669" height="18" fill="#90A9C5" stroke="none" rx="3"/>
+<text x="849" y="236" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">66.7%</text>
+<text x="520" y="264" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
+<rect x="560" y="250" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="250" width="0.0" height="18" fill="#547DAF" stroke="none" rx="3"/>
+<text x="849" y="264" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0%</text>
+<text x="25" y="325" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Violation recognition</text>
+<text x="25" y="359" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
+<rect x="65" y="345" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="345" width="93.33333333333334" height="18" fill="#77858B" stroke="none" rx="3"/>
+<text x="354" y="359" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">33.3%</text>
+<text x="25" y="387" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
+<rect x="65" y="373" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="373" width="280.0" height="18" fill="#455A64" stroke="none" rx="3"/>
+<text x="354" y="387" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="25" y="415" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
+<rect x="65" y="401" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="401" width="93.33333333333334" height="18" fill="#80B0AC" stroke="none" rx="3"/>
+<text x="354" y="415" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">33.3%</text>
+<text x="25" y="443" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
+<rect x="65" y="429" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="429" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="354" y="443" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="25" y="471" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
+<rect x="65" y="457" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="457" width="93.33333333333334" height="18" fill="#90A9C5" stroke="none" rx="3"/>
+<text x="354" y="471" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">33.3%</text>
+<text x="25" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
+<rect x="65" y="485" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="65" y="485" width="280.0" height="18" fill="#547DAF" stroke="none" rx="3"/>
+<text x="354" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="520" y="325" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Missing evidence recognition</text>
+<text x="520" y="359" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
+<rect x="560" y="345" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="345" width="140.0" height="18" fill="#77858B" stroke="none" rx="3"/>
+<text x="849" y="359" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">50.0%</text>
+<text x="520" y="387" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
+<rect x="560" y="373" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="373" width="280.0" height="18" fill="#455A64" stroke="none" rx="3"/>
+<text x="849" y="387" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="520" y="415" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
+<rect x="560" y="401" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="401" width="140.0" height="18" fill="#80B0AC" stroke="none" rx="3"/>
+<text x="849" y="415" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">50.0%</text>
+<text x="520" y="443" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
+<rect x="560" y="429" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="429" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
+<text x="849" y="443" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+<text x="520" y="471" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
+<rect x="560" y="457" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="457" width="140.0" height="18" fill="#90A9C5" stroke="none" rx="3"/>
+<text x="849" y="471" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">50.0%</text>
+<text x="520" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
+<rect x="560" y="485" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
+<rect x="560" y="485" width="280.0" height="18" fill="#547DAF" stroke="none" rx="3"/>
+<text x="849" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">100.0%</text>
+</svg>
