@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it using the following metadata."
+title: "IoT Evidence Assurance Benchmark"
+type: software
+authors:
+  - family-names: "Vasheghani Farahani"
+    given-names: "Javad"
+license: MIT
+keywords:
+  - Internet of Things
+  - Blockchain
+  - Evidence assurance
+  - Transparency logs
+  - Cryptographic verification
+  - Decision reliability
