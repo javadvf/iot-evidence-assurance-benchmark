@@ -1,69 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
-<rect x="0" y="0" width="1000" height="330" fill="#FFFFFF" stroke="none" rx="3"/>
-<text x="25" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#263238" text-anchor="start">Verification cost and supporting evidence</text>
-<text x="25" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Local verification latency and deterministic supporting-material representation</text>
-<text x="25" y="95" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Verification latency (ms)</text>
-<text x="25" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
-<rect x="65" y="115" width="14.11176647114991" height="18" fill="#77858B" stroke="none" rx="3"/>
-<line x1="78.9317091801937" y1="124" x2="79.84018005729095" y2="124" stroke="#263238" stroke-width="1.5"/>
-<line x1="78.9317091801937" y1="119" x2="78.9317091801937" y2="129" stroke="#263238" stroke-width="1"/>
-<line x1="79.84018005729095" y1="119" x2="79.84018005729095" y2="129" stroke="#263238" stroke-width="1"/>
-<text x="365" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1.293</text>
-<text x="25" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
-<rect x="65" y="143" width="27.738829627608784" height="18" fill="#455A64" stroke="none" rx="3"/>
-<line x1="92.33414813804393" y1="152" x2="94.00650934388214" y2="152" stroke="#263238" stroke-width="1.5"/>
-<line x1="92.33414813804393" y1="147" x2="92.33414813804393" y2="157" stroke="#263238" stroke-width="1"/>
-<line x1="94.00650934388214" y1="147" x2="94.00650934388214" y2="157" stroke="#263238" stroke-width="1"/>
-<text x="365" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">2.542</text>
-<text x="25" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
-<rect x="65" y="171" width="72.2866402946392" height="18" fill="#80B0AC" stroke="none" rx="3"/>
-<line x1="136.6714445505388" y1="180" x2="138.2483099167917" y2="180" stroke="#263238" stroke-width="1.5"/>
-<line x1="136.6714445505388" y1="175" x2="136.6714445505388" y2="185" stroke="#263238" stroke-width="1"/>
-<line x1="138.2483099167917" y1="175" x2="138.2483099167917" y2="185" stroke="#263238" stroke-width="1"/>
-<text x="365" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">6.624</text>
-<text x="25" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
-<rect x="65" y="199" width="86.03101350429681" height="18" fill="#367D78" stroke="none" rx="3"/>
-<line x1="150.19529668530896" y1="208" x2="152.2991406356568" y2="208" stroke="#263238" stroke-width="1.5"/>
-<line x1="150.19529668530896" y1="203" x2="150.19529668530896" y2="213" stroke="#263238" stroke-width="1"/>
-<line x1="152.2991406356568" y1="203" x2="152.2991406356568" y2="213" stroke="#263238" stroke-width="1"/>
-<text x="365" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">7.884</text>
-<text x="25" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
-<rect x="65" y="227" width="236.31655163006408" height="18" fill="#90A9C5" stroke="none" rx="3"/>
-<line x1="112.46828536352476" y1="236" x2="326.63096985404445" y2="236" stroke="#263238" stroke-width="1.5"/>
-<line x1="112.46828536352476" y1="231" x2="112.46828536352476" y2="241" stroke="#263238" stroke-width="1"/>
-<line x1="326.63096985404445" y1="231" x2="326.63096985404445" y2="241" stroke="#263238" stroke-width="1"/>
-<text x="365" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">21.655</text>
-<text x="25" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
-<rect x="65" y="255" width="251.26949120174604" height="18" fill="#547DAF" stroke="none" rx="3"/>
-<line x1="126.53730732505797" y1="264" x2="345.0" y2="264" stroke="#263238" stroke-width="1.5"/>
-<line x1="126.53730732505797" y1="259" x2="126.53730732505797" y2="269" stroke="#263238" stroke-width="1"/>
-<line x1="345.0" y1="259" x2="345.0" y2="269" stroke="#263238" stroke-width="1"/>
-<text x="365" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">23.026</text>
-<text x="520" y="95" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#263238" text-anchor="start">Supporting material (bytes)</text>
-<text x="520" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A1</text>
-<rect x="560" y="115" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="560" y="115" width="0.0" height="18" fill="#77858B" stroke="none" rx="3"/>
-<text x="849" y="129" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">0.0</text>
-<text x="520" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">A2</text>
-<rect x="560" y="143" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="560" y="143" width="103.779399837794" height="18" fill="#455A64" stroke="none" rx="3"/>
-<text x="849" y="157" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">914.0</text>
-<text x="520" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B1</text>
-<rect x="560" y="171" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="560" y="171" width="176.4476885644769" height="18" fill="#80B0AC" stroke="none" rx="3"/>
-<text x="849" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1554.0</text>
-<text x="520" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">B2</text>
-<rect x="560" y="199" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="560" y="199" width="280.0" height="18" fill="#367D78" stroke="none" rx="3"/>
-<text x="849" y="213" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">2466.0</text>
-<text x="520" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C1</text>
-<rect x="560" y="227" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="560" y="227" width="12.489862124898622" height="18" fill="#90A9C5" stroke="none" rx="3"/>
-<text x="849" y="241" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">110.0</text>
-<text x="520" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">C2</text>
-<rect x="560" y="255" width="280" height="18" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="560" y="255" width="116.15571776155718" height="18" fill="#547DAF" stroke="none" rx="3"/>
-<text x="849" y="269" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">1023.0</text>
-<text x="25" y="305" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Latency: median and interquartile range.</text>
-<text x="520" y="305" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Support size excludes common signed evidence.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="740" viewBox="0 0 1000 740" role="img">
+<title>Local verification cost and supporting evidence</title>
+<rect x="0" y="0" width="1000" height="740" fill="#FFFFFF" stroke="none" rx="0"/>
+<text x="28" y="35" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#263238" text-anchor="start">Local verification cost and supporting evidence</text>
+<text x="28" y="59" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#52636A" text-anchor="start">65 reserved control batches · median of five timed runs per batch · local backend queries included</text>
+<text x="28" y="88" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#263238" text-anchor="start">A. Verification latency by batch (ms)</text>
+<line x1="80" y1="360.0" x2="960" y2="360.0" stroke="#E0E6E8" stroke-width="1" stroke-dasharray=""/>
+<text x="70" y="365.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#52636A" text-anchor="end">0</text>
+<line x1="80" y1="299.0" x2="960" y2="299.0" stroke="#E0E6E8" stroke-width="1" stroke-dasharray=""/>
+<text x="70" y="304.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#52636A" text-anchor="end">10</text>
+<line x1="80" y1="238.0" x2="960" y2="238.0" stroke="#E0E6E8" stroke-width="1" stroke-dasharray=""/>
+<text x="70" y="243.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#52636A" text-anchor="end">20</text>
+<line x1="80" y1="177.0" x2="960" y2="177.0" stroke="#E0E6E8" stroke-width="1" stroke-dasharray=""/>
+<text x="70" y="182.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#52636A" text-anchor="end">30</text>
+<line x1="80" y1="116.0" x2="960" y2="116.0" stroke="#E0E6E8" stroke-width="1" stroke-dasharray=""/>
+<text x="70" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#52636A" text-anchor="end">40</text>
+<line x1="80" y1="116" x2="80" y2="360" stroke="#52636A" stroke-width="1" stroke-dasharray=""/>
+<line x1="80" y1="360" x2="960" y2="360" stroke="#52636A" stroke-width="1" stroke-dasharray=""/>
+<text x="80.0" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">65</text>
+<text x="148.75" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">70</text>
+<text x="286.25" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">80</text>
+<text x="423.75" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">90</text>
+<text x="561.25" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">100</text>
+<text x="698.75" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">110</text>
+<text x="836.25" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">120</text>
+<text x="960.0" y="379" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#52636A" text-anchor="middle">129</text>
+<line x1="540.625" y1="116" x2="540.625" y2="360" stroke="#B66A57" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="548.625" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#9B4D3B" text-anchor="start">98 → 99</text>
+<polyline points="80.00,351.91 93.75,352.22 107.50,352.06 121.25,351.74 135.00,351.96 148.75,351.43 162.50,351.39 176.25,351.47 190.00,351.44 203.75,326.87 217.50,350.94 231.25,351.46 245.00,351.48 258.75,351.25 272.50,352.15 286.25,352.44 300.00,351.70 313.75,351.97 327.50,352.42 341.25,351.93 355.00,352.21 368.75,352.07 382.50,352.15 396.25,352.23 410.00,352.11 423.75,352.16 437.50,352.16 451.25,351.91 465.00,351.38 478.75,334.90 492.50,344.13 506.25,352.12 520.00,351.88 533.75,351.82 547.50,352.10 561.25,352.20 575.00,352.13 588.75,352.40 602.50,352.61 616.25,352.57 630.00,352.16 643.75,352.56 657.50,352.45 671.25,352.20 685.00,352.40 698.75,352.16 712.50,352.19 726.25,352.08 740.00,352.11 753.75,352.17 767.50,351.71 781.25,351.61 795.00,351.17 808.75,351.15 822.50,334.23 836.25,352.29 850.00,352.56 863.75,352.15 877.50,352.33 891.25,352.28 905.00,352.18 918.75,352.26 932.50,352.16 946.25,352.05 960.00,352.46" fill="none" stroke="#77858B" stroke-width="2.2" stroke-dasharray="6 4" stroke-linejoin="round"/>
+<polyline points="80.00,344.13 93.75,344.80 107.50,344.29 121.25,343.79 135.00,344.29 148.75,343.37 162.50,343.62 176.25,343.54 190.00,343.06 203.75,303.87 217.50,342.60 231.25,343.62 245.00,343.59 258.75,343.05 272.50,344.61 286.25,345.02 300.00,343.92 313.75,344.24 327.50,345.19 341.25,344.86 355.00,344.59 368.75,344.58 382.50,344.64 396.25,344.52 410.00,344.56 423.75,344.34 437.50,344.61 451.25,344.31 465.00,343.25 478.75,318.17 492.50,332.56 506.25,344.49 520.00,344.12 533.75,344.36 547.50,344.31 561.25,344.65 575.00,344.58 588.75,345.09 602.50,345.50 616.25,345.44 630.00,344.66 643.75,345.35 657.50,344.94 671.25,344.79 685.00,344.81 698.75,345.00 712.50,344.52 726.25,344.72 740.00,344.56 753.75,344.71 767.50,343.72 781.25,344.04 795.00,343.63 808.75,342.87 822.50,312.25 836.25,344.65 850.00,345.12 863.75,344.66 877.50,344.98 891.25,344.46 905.00,344.49 918.75,344.48 932.50,344.47 946.25,344.82 960.00,345.23" fill="none" stroke="#455A64" stroke-width="2.2" stroke-dasharray="" stroke-linejoin="round"/>
+<polyline points="80.00,319.47 93.75,319.94 107.50,318.91 121.25,318.84 135.00,319.03 148.75,319.12 162.50,319.42 176.25,318.74 190.00,318.78 203.75,294.66 217.50,313.73 231.25,318.79 245.00,318.59 258.75,318.24 272.50,319.26 286.25,320.75 300.00,319.38 313.75,319.65 327.50,319.54 341.25,319.72 355.00,319.84 368.75,320.14 382.50,319.87 396.25,319.82 410.00,319.62 423.75,319.99 437.50,319.79 451.25,319.32 465.00,318.95 478.75,301.68 492.50,311.87 506.25,319.69 520.00,319.26 533.75,319.77 547.50,320.12 561.25,319.73 575.00,320.08 588.75,319.96 602.50,320.08 616.25,319.98 630.00,319.94 643.75,319.94 657.50,320.52 671.25,319.50 685.00,319.46 698.75,319.11 712.50,320.19 726.25,320.11 740.00,319.36 753.75,320.01 767.50,319.41 781.25,319.06 795.00,319.45 808.75,318.52 822.50,301.60 836.25,319.67 850.00,320.22 863.75,319.59 877.50,319.68 891.25,319.46 905.00,319.74 918.75,320.05 932.50,319.03 946.25,319.83 960.00,320.19" fill="none" stroke="#367D78" stroke-width="2.2" stroke-dasharray="6 4" stroke-linejoin="round"/>
+<polyline points="80.00,311.68 93.75,312.28 107.50,311.08 121.25,311.04 135.00,311.39 148.75,311.20 162.50,311.61 176.25,311.00 190.00,310.60 203.75,271.03 217.50,306.12 231.25,310.82 245.00,310.63 258.75,309.82 272.50,311.82 286.25,313.20 300.00,311.30 313.75,312.33 327.50,312.65 341.25,310.18 355.00,311.86 368.75,312.99 382.50,312.14 396.25,312.25 410.00,312.15 423.75,311.97 437.50,312.34 451.25,311.67 465.00,310.76 478.75,285.80 492.50,299.70 506.25,312.02 520.00,311.61 533.75,312.09 547.50,312.42 561.25,312.36 575.00,312.59 588.75,312.44 602.50,312.93 616.25,312.94 630.00,312.38 643.75,312.96 657.50,313.03 671.25,311.86 685.00,311.93 698.75,311.57 712.50,312.46 726.25,312.83 740.00,311.91 753.75,312.46 767.50,311.67 781.25,311.57 795.00,311.03 808.75,310.28 822.50,279.82 836.25,312.00 850.00,312.82 863.75,312.10 877.50,312.25 891.25,311.84 905.00,311.83 918.75,311.97 932.50,311.88 946.25,312.66 960.00,313.07" fill="none" stroke="#367D78" stroke-width="2.2" stroke-dasharray="" stroke-linejoin="round"/>
+<polyline points="80.00,199.24 93.75,197.18 107.50,201.90 121.25,204.40 135.00,201.84 148.75,202.87 162.50,205.20 176.25,203.03 190.00,206.04 203.75,182.38 217.50,205.21 231.25,209.51 245.00,208.44 258.75,200.22 272.50,212.01 286.25,213.89 300.00,214.91 313.75,216.87 327.50,218.05 341.25,215.28 355.00,213.75 368.75,218.86 382.50,217.80 396.25,221.24 410.00,221.66 423.75,221.04 437.50,223.68 451.25,222.93 465.00,224.32 478.75,209.98 492.50,217.82 506.25,227.90 520.00,228.34 533.75,227.69 547.50,331.91 561.25,332.21 575.00,332.56 588.75,332.53 602.50,333.31 616.25,333.50 630.00,332.78 643.75,333.47 657.50,333.40 671.25,333.27 685.00,333.56 698.75,333.45 712.50,333.13 726.25,333.53 740.00,333.83 753.75,333.93 767.50,333.64 781.25,333.27 795.00,332.81 808.75,333.22 822.50,316.64 836.25,334.84 850.00,335.13 863.75,334.74 877.50,334.78 891.25,335.15 905.00,335.30 918.75,335.15 932.50,335.41 946.25,335.49 960.00,335.79" fill="none" stroke="#547DAF" stroke-width="2.2" stroke-dasharray="6 4" stroke-linejoin="round"/>
+<polyline points="80.00,189.34 93.75,190.03 107.50,192.53 121.25,194.90 135.00,194.77 148.75,193.63 162.50,196.34 176.25,194.62 190.00,196.45 203.75,157.53 217.50,197.13 231.25,200.84 245.00,197.26 258.75,191.32 272.50,203.48 286.25,205.60 300.00,207.14 313.75,208.74 327.50,210.41 341.25,198.13 355.00,207.96 368.75,210.55 382.50,210.90 396.25,212.34 410.00,212.85 423.75,213.58 437.50,214.60 451.25,214.20 465.00,216.35 478.75,190.77 492.50,203.73 506.25,220.39 520.00,219.17 533.75,219.54 547.50,323.90 561.25,324.35 575.00,324.49 588.75,325.33 602.50,324.99 616.25,325.60 630.00,325.16 643.75,325.95 657.50,325.52 671.25,325.63 685.00,325.02 698.75,325.92 712.50,325.60 726.25,325.79 740.00,325.67 753.75,326.31 767.50,324.46 781.25,325.36 795.00,323.14 808.75,324.68 822.50,293.59 836.25,326.87 850.00,326.45 863.75,326.80 877.50,327.53 891.25,326.11 905.00,327.04 918.75,327.44 932.50,326.66 946.25,327.62 960.00,328.08" fill="none" stroke="#547DAF" stroke-width="2.2" stroke-dasharray="" stroke-linejoin="round"/>
+<line x1="72" y1="399" x2="100" y2="399" stroke="#77858B" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="107" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">A1</text>
+<line x1="220" y1="399" x2="248" y2="399" stroke="#455A64" stroke-width="2.5" stroke-dasharray=""/>
+<text x="255" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">A2</text>
+<line x1="368" y1="399" x2="396" y2="399" stroke="#367D78" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="403" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">B1</text>
+<line x1="516" y1="399" x2="544" y2="399" stroke="#367D78" stroke-width="2.5" stroke-dasharray=""/>
+<text x="551" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">B2</text>
+<line x1="664" y1="399" x2="692" y2="399" stroke="#547DAF" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="699" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">C1</text>
+<line x1="812" y1="399" x2="840" y2="399" stroke="#547DAF" stroke-width="2.5" stroke-dasharray=""/>
+<text x="847" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">C2</text>
+<text x="28" y="431" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#52636A" text-anchor="start">Exploratory diagnostic: transaction and receipt lookup reproduce the transition at 31 → 30 blocks of age.</text>
+<text x="28" y="470" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#263238" text-anchor="start">B. Overall latency (median [Q1, Q3], ms)</text>
+<text x="520" y="470" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#263238" text-anchor="start">C. Supporting material (median bytes)</text>
+<text x="28" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">A1</text>
+<rect x="70" y="488" width="180" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<line x1="78.95609875869594" y1="498" x2="79.54011575111562" y2="498" stroke="#77858B" stroke-width="5" stroke-dasharray=""/>
+<line x1="79.07184987431066" y1="490" x2="79.07184987431066" y2="506" stroke="#263238" stroke-width="2" stroke-dasharray=""/>
+<text x="263" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">1.29 [1.28, 1.36]</text>
+<text x="520" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">A1</text>
+<rect x="562" y="488" width="270" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<rect x="562" y="488" width="0.0" height="20" fill="#77858B" stroke="none" rx="2"/>
+<text x="843" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">0</text>
+<text x="28" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">A2</text>
+<rect x="70" y="518" width="180" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<line x1="87.57195237445681" y1="528" x2="88.6470417210671" y2="528" stroke="#455A64" stroke-width="5" stroke-dasharray=""/>
+<line x1="87.83210476060565" y1="520" x2="87.83210476060565" y2="536" stroke="#263238" stroke-width="2" stroke-dasharray=""/>
+<text x="263" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">2.54 [2.50, 2.66]</text>
+<text x="520" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">A2</text>
+<rect x="562" y="518" width="270" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<rect x="562" y="518" width="100.07299270072993" height="20" fill="#455A64" stroke="none" rx="2"/>
+<text x="843" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">914</text>
+<text x="28" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">B1</text>
+<rect x="70" y="548" width="180" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<line x1="116.07450006820352" y1="558" x2="117.08819923222325" y2="558" stroke="#80B0AC" stroke-width="5" stroke-dasharray=""/>
+<line x1="116.46998304655378" y1="550" x2="116.46998304655378" y2="566" stroke="#263238" stroke-width="2" stroke-dasharray=""/>
+<text x="263" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">6.62 [6.57, 6.71]</text>
+<text x="520" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">B1</text>
+<rect x="562" y="548" width="270" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<rect x="562" y="548" width="170.14598540145985" height="20" fill="#80B0AC" stroke="none" rx="2"/>
+<text x="843" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">1,554</text>
+<text x="28" y="594" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">B2</text>
+<rect x="70" y="578" width="180" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<line x1="124.76840501198433" y1="588" x2="126.12087612292223" y2="588" stroke="#367D78" stroke-width="5" stroke-dasharray=""/>
+<line x1="125.30565153847652" y1="580" x2="125.30565153847652" y2="596" stroke="#263238" stroke-width="2" stroke-dasharray=""/>
+<text x="263" y="594" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">7.88 [7.81, 8.00]</text>
+<text x="520" y="594" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">B2</text>
+<rect x="562" y="578" width="270" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<rect x="562" y="578" width="270.0" height="20" fill="#367D78" stroke="none" rx="2"/>
+<text x="843" y="594" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">2,466</text>
+<text x="28" y="624" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">C1</text>
+<rect x="70" y="608" width="180" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<line x1="100.51532630512305" y1="618" x2="238.1913377633143" y2="618" stroke="#90A9C5" stroke-width="5" stroke-dasharray=""/>
+<line x1="221.9177831907555" y1="610" x2="221.9177831907555" y2="626" stroke="#263238" stroke-width="2" stroke-dasharray=""/>
+<text x="263" y="624" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">21.66 [4.35, 23.98]</text>
+<text x="520" y="624" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">C1</text>
+<rect x="562" y="608" width="270" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<rect x="562" y="608" width="12.043795620437956" height="20" fill="#90A9C5" stroke="none" rx="2"/>
+<text x="843" y="624" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">110</text>
+<text x="28" y="654" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">C2</text>
+<rect x="70" y="638" width="180" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<line x1="109.5596975661087" y1="648" x2="250.0" y2="648" stroke="#547DAF" stroke-width="5" stroke-dasharray=""/>
+<line x1="231.53038720112244" y1="640" x2="231.53038720112244" y2="656" stroke="#263238" stroke-width="2" stroke-dasharray=""/>
+<text x="263" y="654" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">23.03 [5.64, 25.66]</text>
+<text x="520" y="654" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#263238" text-anchor="start">C2</text>
+<rect x="562" y="638" width="270" height="20" fill="#F1F4F5" stroke="none" rx="2"/>
+<rect x="562" y="638" width="112.00729927007299" height="20" fill="#547DAF" stroke="none" rx="2"/>
+<text x="843" y="654" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="start">1,023</text>
+<text x="28" y="699" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#52636A" text-anchor="start">Local EthereumTester/Py-EVM behavior; not a public-network performance comparison.</text>
+<text x="28" y="721" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#52636A" text-anchor="start">Supporting material excludes the common signed envelope and total infrastructure or network storage.</text>
 </svg>

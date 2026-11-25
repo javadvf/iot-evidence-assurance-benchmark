@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
-<rect x="0" y="0" width="1000" height="300" fill="#FFFFFF" stroke="none" rx="3"/>
-<text x="25" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#263238" text-anchor="start">Chronological experimental allocation</text>
-<text x="25" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Original measurement identities preserved; no overlapping records</text>
-<rect x="25" y="85" width="475" height="65" fill="#77858B" stroke="none" rx="3"/>
-<text x="262.5" y="110" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Development</text>
-<text x="262.5" y="133" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="middle">65 batches | 3,874 measurements</text>
-<rect x="500" y="85" width="475" height="65" fill="#367D78" stroke="none" rx="3"/>
-<text x="737.5" y="110" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Reserved evaluation</text>
-<text x="737.5" y="133" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="middle">65 batches | 4,211 measurements</text>
-<text x="25" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="start">Batch 0</text>
-<text x="500" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="middle">Batch 65</text>
-<text x="975" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#263238" text-anchor="end">Batch 129</text>
-<line x1="262.5" y1="180" x2="262.5" y2="205" stroke="#D8DFE2" stroke-width="1"/>
-<line x1="737.5" y1="180" x2="737.5" y2="205" stroke="#D8DFE2" stroke-width="1"/>
-<rect x="25" y="205" width="460" height="45" fill="#F1F4F5" stroke="none" rx="3"/>
-<rect x="515" y="205" width="460" height="45" fill="#F1F4F5" stroke="none" rx="3"/>
-<text x="255" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#263238" text-anchor="middle">Implementation, validation and freeze</text>
-<text x="745" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#263238" text-anchor="middle">7,410 core decisions + robustness and performance</text>
-<text x="25" y="280" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#627078" text-anchor="start">Reserved comparative evaluation; not a fully blinded holdout.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img">
+<title>Chronological experimental allocation</title>
+<rect x="0" y="0" width="1000" height="340" fill="#FFFFFF" stroke="none" rx="0"/>
+<text x="28" y="35" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#263238" text-anchor="start">Chronological experimental allocation</text>
+<text x="28" y="59" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#52636A" text-anchor="start">Original batch boundaries preserved; new benchmark commitments and synthetic failures</text>
+<rect x="28" y="89" width="464" height="102" fill="#455A64" stroke="none" rx="4"/>
+<text x="260" y="118" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">Development</text>
+<text x="260" y="147" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#FFFFFF" text-anchor="middle">Batches 0–64  |  65 batches</text>
+<text x="260" y="174" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="middle">3,874 original measurement records</text>
+<rect x="508" y="89" width="464" height="102" fill="#367D78" stroke="none" rx="4"/>
+<text x="740" y="118" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">Reserved evaluation</text>
+<text x="740" y="147" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#FFFFFF" text-anchor="middle">Batches 65–129  |  65 batches</text>
+<text x="740" y="174" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="middle">4,211 original measurement records</text>
+<line x1="500" y1="78" x2="500" y2="257" stroke="#52636A" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="260" y="221" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#263238" text-anchor="middle">Build and validate the implementations</text>
+<text x="260" y="245" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="middle">Freeze scenarios, reference outcomes and code</text>
+<text x="740" y="221" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#263238" text-anchor="middle">7,410 core architecture decisions</text>
+<text x="740" y="245" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#263238" text-anchor="middle">Separate robustness and performance experiments</text>
+<text x="28" y="287" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#52636A" text-anchor="start">The reserved partition is not fully blinded: historical verification inspected all batches.</text>
+<text x="28" y="311" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#52636A" text-anchor="start">Repeated scenarios and architectures within a batch are statistically dependent.</text>
 </svg>
